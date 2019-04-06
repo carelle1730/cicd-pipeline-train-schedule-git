@@ -50,3 +50,4 @@ function showTrainInfo(event) {
 	$('#trainName').text(train.name);
 	$('#trainSchedule').html(tableContent);
 }
+this is test
